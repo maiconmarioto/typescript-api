@@ -1,0 +1,17 @@
+{"message":"GET / 500 16.959 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 500 14.553 ms combined","level":"info"}
+{"message":"GET /users 500 7.819 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 200 5.488 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 200 6.107 ms combined","level":"info"}
+{"message":"GET /users 200 0.891 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 200 6.071 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 200 5.968 ms combined","level":"info"}
+{"message":"GET /users 200 1.021 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
