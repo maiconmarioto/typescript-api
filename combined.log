@@ -15,3 +15,35 @@
 {"message":"GET /users 200 1.021 ms combined","level":"info"}
 {"message":"Running on 127.0.0.1:8080","level":"info"}
 {"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users 404 3.862 ms combined","level":"info"}
+{"message":"GET /users/ 404 0.898 ms combined","level":"info"}
+{"message":"GET /users/1 404 0.660 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET / 200 5.205 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET / 404 3.570 ms combined","level":"info"}
+{"message":"GET /users 404 1.017 ms combined","level":"info"}
+{"message":"GET /users 404 0.974 ms combined","level":"info"}
+{"message":"GET /users 404 0.833 ms combined","level":"info"}
+{"message":"GET /users/ 404 0.831 ms combined","level":"info"}
+{"message":"GET /users/ 404 0.450 ms combined","level":"info"}
+{"message":"GET /users/ie 404 3.551 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users/ie 200 3.446 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users/ie 200 5.162 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users/ie 200 5.049 ms combined","level":"info"}
+{"message":"GET /users/ie 200 1.147 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users/ie 500 16.784 ms combined","level":"info"}
+{"message":"GET /users/ie 500 2.327 ms combined","level":"info"}
+{"message":"Running on 127.0.0.1:8080","level":"info"}
+{"message":"GET /users/ie 200 5.125 ms combined","level":"info"}
+{"message":"PUT /users/ 200 1.468 ms combined","level":"info"}
+{"message":"DELETE /users/ 200 0.912 ms combined","level":"info"}
